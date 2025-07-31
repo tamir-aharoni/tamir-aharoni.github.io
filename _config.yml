@@ -11,23 +11,22 @@ remote_theme: academicpages/academicpages.github.io
 
 # Basic Site Settings
 locale: "en-US"
-title: "Ory Band - Backend Engineer & Tech Lead"
+title: "Tamir Aharoni - Creative Director | R&D Thinker | AI Specialist"
 title_separator: "-"
-name: &name "Ory Band"
-description: &description "Backend engineer and hands-on Tech Lead, specializing in data-intensive processing, distributed systems, and cloud infrastructure."
-url: https://ory.band # the base hostname & protocol for your site
+name: &name "Tamir Aharoni"
+description: &description "Creative Director, R&D Thinker, and AI Specialist. Storytelling, design, and emerging technology."
+url: https://tamiraharoni.com # update to your domain if needed
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "oryband/oryband.github.io"
+repository: "tamirbetet/tamiraharoni"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  # Biographic information
   avatar: "profile.jpg"
-  name: "Ory Band"
-  pronouns: # example: "he/him"  
-  bio: " "
+  name: "Tamir Aharoni"
+  pronouns: "he/him"
+  bio: "Creative Director, R&D Thinker, AI Specialist. Story, systems, and new media."
   location: "Israel"
-  employer: # Company name
+  employer: "Alma Studios (former)"
   uri: "files/cv.pdf"
   email: # Add your email if you want
 
