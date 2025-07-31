@@ -1,10 +1,3 @@
----
-permalink: /
-title: "Hi, I'm Ory Band"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 
 ---
 permalink: /
@@ -105,11 +98,4 @@ I want to join teams building the future of creative expression. Whether that's:
 * **Creative Tools for Makers** - building platforms that help creators work better, faster, more intuitively
 
 If you're rethinking creativity in the age of AI, designing for emotional depth, or building tools that empower storytellers, I’d love to talk.
-**[Database Selection Strategy](https://x.com/oryband/status/1447888264569008129)**  
-Shared practical guidance on choosing the right database for specific problems, with focus on distributed database considerations and decision frameworks for system architects.
 
-**[Performance Estimation Resources](https://x.com/oryband/status/1397910350197006340)**  
-Highlighted essential napkin-math techniques for estimating system performance, including computation times, compression rates, serialization costs, and geographical latencies - crucial for back-of-envelope calculations in system design.
-
-**[Leadership in Engineering Teams](https://x.com/oryband/status/1212397548155092992)**  
-Discussed applying Simon Sinek's leadership principles in engineering contexts, emphasizing the importance of collaboration, mentoring, and understanding the "infinite game" mindset in both people management and code development.
