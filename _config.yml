@@ -15,7 +15,7 @@ title: "Tamir Aharoni - Creative Director | R&D Thinker | AI Specialist"
 title_separator: "-"
 name: &name "Tamir Aharoni"
 description: &description "Creative Director, R&D Thinker, and AI Specialist. Storytelling, design, and emerging technology."
-url: https://tamiraharoni.com # update to your domain if needed
+url: https://tamir-aharoni.github.io/
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "tamir-aharoni/tamir-aharoni.github.io"
 
